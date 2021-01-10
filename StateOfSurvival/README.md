@@ -2,6 +2,9 @@
 
 click on ressource collectors and "help all"
 
+> Attention: make sure your ressource collectors are placed on the marked spots
+![rss collectors](./nox.jpg)
+
 # [readMessages.7z](./readMessages.7z)
 
 Open inbox, grab all loot and delete all read messages
